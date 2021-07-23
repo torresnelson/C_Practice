@@ -1,0 +1,27 @@
+1>#  Caso de prueba privado 1.
+2>Segmento insertado después de loc.
+3>Longitud: 1
+4>(5,3.40)
+5>loc al inicio.
+6>Segmento insertado después de loc.
+7>(5,3.40)(5,3.40)(6,4.10)(7,3.50)(8,9.40)(9,2.60)
+8>Longitud: 6
+9>Segmento borrado.
+10>Segmento borrado.
+11>Segmento borrado.
+12>Longitud: 3
+13>(7,3.50)(8,9.40)(9,2.60)
+14>Segmento borrado.
+15>Longitud: 0
+16>Segmento insertado después de loc.
+17>Longitud: 5
+18>Segmento borrado.
+19>Longitud: 0
+20>
+21>Segmento insertado después de loc.
+22>Segmento borrado.
+23>Segmento borrado.
+24>Segmento borrado.
+25>Longitud: 2
+26>(2,4.10)(7,9.40)
+27>Fin.

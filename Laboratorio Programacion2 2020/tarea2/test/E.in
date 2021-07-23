@@ -1,0 +1,21 @@
+# Caso prueba privado 5
+insertarSegmentoDespues 9 (1,3.4) (2,4.1) (2,4.1) (3,3.5) (4,9.4) (5,2.6) (6,3.5) (6,9.4) (7,2.6)
+hayNatsRepetidos
+borrarSegmento 8 8  
+hayNatsRepetidos
+borrarSegmento 2 2  
+hayNatsRepetidos
+imprimirCadena
+ordenar
+borrarSegmento 1 1  
+finalCadena
+insertarSegmentoDespues 5 (11,3.4) (10,4.1) (8,4.1) (9,3.5) (1,9.4)
+ordenar
+imprimirCadena
+borrarSegmento 2 10  
+ordenar
+borrarSegmento 1 1  
+ordenar
+imprimirCadena
+Fin
+

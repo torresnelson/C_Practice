@@ -1,0 +1,20 @@
+# Caso de prueba privado 4
+sonIgualesCadena 0
+sonIgualesCadena 1 (5,2.2)
+insertarAlFinal (5,2.2)
+sonIgualesCadena 1 (5,2.2)
+finalCadena
+insertarAlFinal (5,2.2)
+sonIgualesCadena 1 (5,2.2)
+sonIgualesCadena 2 (5,2.2) (5,2.2)
+sonIgualesCadena 2 (1,2.2) (1,2.2)
+sonIgualesCadena 2 (5,2.1) (5,2.1)
+imprimirCadena
+concatenar  2 (3,2.1) (1,2.1)
+finalCadena
+insertarSegmentoDespues 2 (3,2.1) (1,2.1)
+inicioCadena
+sonIgualesCadena 2 (5,2.1) (5,2.1)
+sonIgualesCadena 4 (5,2.20) (5,2.20) (3,2.10) (1,2.10)
+imprimirCadena
+Fin

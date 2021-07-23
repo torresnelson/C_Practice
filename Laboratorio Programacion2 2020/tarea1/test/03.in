@@ -1,0 +1,33 @@
+esClave 15
+asociar 15 5.2
+esClave 14
+esClave 15
+valor 15
+desasociar 15
+esClave 15
+asociar 95 24.0
+valor 95
+asociar 85 2.0
+valor 85
+valor 95
+desasociar 85
+esClave 85
+valor 95
+asociar 65 3.0
+asociar 25 67.0
+asociar 35 -12.0
+asociar 75 2.5
+asociar 45 2.1
+asociar 55 -24.0
+valor 55
+valor 65
+valor 95
+desasociar 55
+desasociar 95
+desasociar 65
+desasociar 25
+desasociar 35
+esClave 95
+esClave 15
+valor 75
+Fin
