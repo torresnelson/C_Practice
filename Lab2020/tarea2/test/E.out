@@ -1,0 +1,20 @@
+1>#  Caso prueba privado 5.
+2>Segmento insertado después de loc.
+3>En cad hay naturales repetidos.
+4>Segmento borrado.
+5>En cad hay naturales repetidos.
+6>Segmento borrado.
+7>En cad no hay naturales repetidos.
+8>(1,3.40)(2,4.10)(3,3.50)(4,9.40)(5,2.60)(6,3.50)(7,2.60)
+9>Quedó ordenada.
+10>Segmento borrado.
+11>loc al final.
+12>Segmento insertado después de loc.
+13>Quedó ordenada.
+14>(1,9.40)(2,4.10)(3,3.50)(4,9.40)(5,2.60)(6,3.50)(7,2.60)(8,4.10)(9,3.50)(10,4.10)(11,3.40)
+15>Segmento borrado.
+16>Quedó ordenada.
+17>Segmento borrado.
+18>Quedó ordenada.
+19>(11,3.40)
+20>Fin.

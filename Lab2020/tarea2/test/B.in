@@ -1,0 +1,19 @@
+# Caso de prueba privado 2
+insertarSegmentoDespues 1 (5,3.4)
+imprimirCadena
+inicioCadena
+menorEnCadena 
+insertarSegmentoDespues 8 (8,3.4) (7,4.1) (6,3.5) (4,9.4) (3,2.6) (9,3.5) (2,9.4) (1,2.6)
+inicioCadena
+menorEnCadena 
+inicioCadena
+siguiente
+siguiente
+siguiente
+menorEnCadena 
+inicioCadena
+imprimirCadena
+borrarSegmento 8 9
+menorEnCadena
+imprimirCadena
+Fin

@@ -1,0 +1,7 @@
+105a106,111
+> ==39471== 16 bytes in 2 blocks are definitely lost in loss record 1 of 1
+> ==39471==    at 0x483BE63: operator new(unsigned long) (in /usr/lib/x86_64-linux-gnu/valgrind/vgpreload_memcheck-amd64-linux.so)
+> ==39471==    by 0x1105A1: crearConjunto() (conjunto.cpp:12)
+> ==39471==    by 0x10DB77: interseccionDeConjuntos(repConjunto*, repConjunto*) (usoTads.cpp:11)
+> ==39471==    by 0x10BD27: main (principal.cpp:765)
+> ==39471== 

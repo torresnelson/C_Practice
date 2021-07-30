@@ -1,0 +1,14 @@
+29a30,42
+> ==7088== 8 bytes in 1 blocks are definitely lost in loss record 1 of 3
+> ==7088==    at 0x483BE63: operator new(unsigned long) (in /usr/lib/x86_64-linux-gnu/valgrind/vgpreload_memcheck-amd64-linux.so)
+> ==7088==    by 0x110591: crearConjunto() (conjunto.cpp:12)
+> ==7088==    by 0x10DB77: interseccionDeConjuntos(repConjunto*, repConjunto*) (usoTads.cpp:11)
+> ==7088==    by 0x10BD27: main (principal.cpp:765)
+> ==7088== 
+> ==7088== 40 (8 direct, 32 indirect) bytes in 1 blocks are definitely lost in loss record 3 of 3
+> ==7088==    at 0x483BE63: operator new(unsigned long) (in /usr/lib/x86_64-linux-gnu/valgrind/vgpreload_memcheck-amd64-linux.so)
+> ==7088==    by 0x110591: crearConjunto() (conjunto.cpp:12)
+> ==7088==    by 0x11068B: unionDeConjuntos(repConjunto*, repConjunto*) (conjunto.cpp:32)
+> ==7088==    by 0x10DCCE: interseccionDeConjuntos(repConjunto*, repConjunto*) (usoTads.cpp:24)
+> ==7088==    by 0x10BD27: main (principal.cpp:765)
+> ==7088== 

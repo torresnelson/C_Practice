@@ -1,0 +1,27 @@
+# Caso de prueba privado 1
+insertarSegmentoDespues 1 (5,3.4)
+longitud
+imprimirCadena
+inicioCadena
+insertarSegmentoDespues 5 (5,3.4) (6,4.1) (7,3.5) (8,9.4) (9,2.6)
+imprimirCadena
+longitud
+borrarSegmento 1 1
+borrarSegmento 1 1
+borrarSegmento 1 1
+longitud
+imprimirCadena
+borrarSegmento 1 3
+longitud
+insertarSegmentoDespues 5 (5,3.4) (6,4.1) (7,3.5) (8,9.4) (9,2.6)
+longitud
+borrarSegmento 1 5
+longitud
+imprimirCadena
+insertarSegmentoDespues 8 (1,3.4) (2,4.1) (3,3.5) (4,9.4) (5,2.6) (6,3.5) (7,9.4) (8,2.6)
+borrarSegmento 1 1 
+borrarSegmento 7 7 
+borrarSegmento 2 5  
+longitud
+imprimirCadena
+Fin

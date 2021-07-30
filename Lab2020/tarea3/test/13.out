@@ -1,0 +1,26 @@
+1>Insertado.
+2>Insertado.
+3>Insertado.
+4>Insertado.
+5>#  esAvl: en la raíz las alturas de los subárboles son 1 y 2.
+6>#         en el hijo derecho las alturas de los subárboles son 0 y 1.
+7>AVL.
+8>#  el penúltmo elemento no tiene componente real mayor a 0.
+9>34.34
+10>#  el parámetro es mayor que la cantidad de elementos.
+11>34.34
+12>#  Se remueve la raíz. Los dos subárboles son no vacíos. El mayor del izquierdo queda como raíz.
+13>Removido.
+14>(8,8.08)
+15>izquierdo de b es vacío.
+16>(12,0.00)
+17>#  Se remueve la raíz. El subŕbol izquierdo es vacío y el derecho no. Él arbol pasa a ser el que era subárbol derecho.
+18>Removido.
+19>(12,0.00)
+20>(16,16.16)
+21>Insertado.
+22>Insertado.
+23>#  El subárbol izquierdo del mayor no es vacío. Ese subárbol es el que sustituye al mayor.
+24>Removido el mayor.
+25>(13,13.13)
+26>Fin.

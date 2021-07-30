@@ -1,0 +1,26 @@
+insertarEnBinario (10,10.10)
+insertarEnBinario (8,8.08) 
+insertarEnBinario (12,0.0)
+insertarEnBinario (16,16.16)
+# esAvl: en la raíz las alturas de los subárboles son 1 y 2
+#        en el hijo derecho las alturas de los subárboles son 0 y 1
+esAvl
+# el penúltmo elemento no tiene componente real mayor a 0
+sumaUltimosPositivos 3
+# el parámetro es mayor que la cantidad de elementos
+sumaUltimosPositivos 5
+# Se remueve la raíz. Los dos subárboles son no vacíos. El mayor del izquierdo queda como raíz
+removerDeBinario 10
+raiz
+izquierdo
+derecho
+# Se remueve la raíz. El subŕbol izquierdo es vacío y el derecho no. Él arbol pasa a ser el que era subárbol derecho
+removerDeBinario 8
+raiz
+derecho
+insertarEnBinario (13,13.13)
+insertarEnBinario (14,14.14)
+# El subárbol izquierdo del mayor no es vacío. Ese subárbol es el que sustituye al mayor
+removerMayor
+derecho
+Fin
