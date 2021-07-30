@@ -1,7 +1,0 @@
-247a248,253
-> ==1570== 16 bytes in 2 blocks are definitely lost in loss record 1 of 1
-> ==1570==    at 0x4835DEF: operator new(unsigned long) (vg_replace_malloc.c:334)
-> ==1570==    by 0x112409: crearConjunto() (conjunto.cpp:12)
-> ==1570==    by 0x10F6B1: interseccionDeConjuntos(repConjunto*, repConjunto*) (usoTads.cpp:130)
-> ==1570==    by 0x10CE89: main (principal.cpp:836)
-> ==1570== 

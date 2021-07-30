@@ -1,9 +1,0 @@
-principal: src/cadena.cpp:62: repInfo* infoCadena(TLocalizador, TCadena): Assertion `localizadorEnCadena(loc, cad)' failed.
-1>#  Implementar longitudesCaminosMasCortos.
-2>INF INF INF INF 0.00 INF INF INF INF INF 
-3>Nuevos vecinos: 2 5 30.00.
-4>INF 0.00 INF INF 25.00 INF INF INF INF INF 
-5>INF 25.00 INF INF 0.00 INF INF INF INF INF 
-6>Nuevos vecinos: 8 5 20.00.
-7>INF 0.00 INF INF 25.00 INF INF 58.00 INF INF 
-8>Aborted
